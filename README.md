@@ -2,7 +2,7 @@
 # 
 
 This is a sample implementation of the PUSH based Gossip protocol.
-The project is part of [Coursera Cloud Computing I] (https://www.coursera.org/learn/cloud-computing/home/welcome)
+The project is part of [Coursera Cloud Computing I](https://www.coursera.org/learn/cloud-computing/home/welcome)
 
  cloud_kvs provides:
 
