@@ -1,3 +1,16 @@
+# -*- mode: gitignore; -*-
+*~
+\#*\#
+/.emacs.desktop
+/.emacs.desktop.lock
+*.elc
+auto-save-list
+tramp
+.\#*
+
+# Ignore CI build directory
+build/
+
 # Prerequisites
 *.d
 
