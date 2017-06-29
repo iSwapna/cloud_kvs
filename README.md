@@ -18,6 +18,7 @@ Compiled using cmake with googletest integration, currently runs on Mac OS X.
 TBD: Support for Linux with a demo on a true cluster.
 
  Build and install:
+ 
   $ `mkdir build`
   
   $ `cd build/`
