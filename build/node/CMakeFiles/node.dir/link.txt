@@ -1,1 +1,0 @@
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -dynamiclib -Wl,-headerpad_max_install_names  -o libnode.dylib -install_name /Users/swapna/playground/t_mp1/build/node/libnode.dylib CMakeFiles/node.dir/Application.o CMakeFiles/node.dir/MP1Node.o ../net/libnet.dylib ../util/libutil.dylib 
