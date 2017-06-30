@@ -27,6 +27,12 @@ TBD: Support for Linux with a demo on a true cluster.
   
   $ `make install`
  
-You can run tests by typing `MainTest`.
+Running Gossip:
+
+The `App` expects a few parameters in the form of a `*.conf` file, to simulate the network charecteristics. Examples can be found [here](https://github.com/swapnai/cloud_kvs/tree/master/main/testcases)
+
+For example, Simulate a single node failure:
+$ `cd <root/cloud_kvs>`
+ $ `App main/testcases/singlefailure.conf` 
 
 If you make any changes to the code, run `make install` in order to rebuild and install
